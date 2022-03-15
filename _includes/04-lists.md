@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* 🐱
+  *  👪
+* 🐶 
+  * 🚙
+* 🍾
+
+1. Chocolate
+2. laptop
+3. mobile
+4. kiwi
+
